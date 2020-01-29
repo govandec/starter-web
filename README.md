@@ -14,6 +14,8 @@ One more
 
 ## Purpose
 
+Forking this repo please and issue pull request for review
+
 Sample website with plenty of files for demos
 
 ## COPYRIGHT

@@ -12,6 +12,8 @@ One more
 
 ## How to
 
+Adding more text for rebase
+
 ## Purpose
 
 Forking this repo please and issue pull request for review

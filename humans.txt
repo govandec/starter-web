@@ -9,6 +9,7 @@
 
     All my students
 	More text
+	More strings
 
 # TECHNOLOGY COLOPHON
 

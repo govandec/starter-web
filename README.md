@@ -12,7 +12,7 @@ One more
 
 ## How to
 
-Adding more text for rebase
+Adding more text for rebase. Making another change after rebase
 
 ## Purpose
 
